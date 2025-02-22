@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Erel! :) 
+- 👋 Hello There! I’m Erel, nice to meet you! :) 
 - 👀 I’m interested in anything related to Code & Technology!
 - 🌱 I’m currently learning Java, Rust, HTML
 
