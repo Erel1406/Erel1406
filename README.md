@@ -19,6 +19,7 @@ Lately I've been digging into **reverse engineering**, **Rust** and **AI-powered
 |---|---|---|
 | [**ContentPipeline**](https://github.com/Erel1406/ContentPipeline) | One CLI that takes a short-form video from script to published, tracked reel: AI images, voiceover, ffmpeg assembly, captions, scheduled Instagram publishing, analytics | Python · ffmpeg · OpenAI · SQLite |
 | [**dopamine.oracle website**](https://github.com/Erel1406/dopamine-oracle-website) | Freemium web app with AI chat, daily AI horoscopes, Stripe subscriptions and per-user token limits | Next.js · TypeScript · Clerk · Stripe · Supabase |
+| [**el-tech-website**](https://github.com/Erel1406/el-tech-website) | Bilingual company website for [el-tech.io](https://el-tech.io), self-hosted with Docker and nginx with hardened security headers | HTML · CSS · JS · Docker · nginx |
 | [**rust-uebung**](https://github.com/Erel1406/rust-uebung) | Exercises from my *Modern Programming Concepts* module | Rust |
 
 ### 🎓 University work
