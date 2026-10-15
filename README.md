@@ -6,7 +6,7 @@ On the side I co-founded [**EL Tech**](https://el-tech.io), where we build autom
 I like building things end to end: from the backend and the data pipeline to the UI people actually click on.
 Lately I've been digging into **reverse engineering**, **Rust** and **AI-powered automation**.
 
-### 🛠 Tech I work with
+### 🛠 Tech I worked with
 
 **Languages:** Python · TypeScript / JavaScript · Java · Rust · Go · SQL · Assembly (x86-64 / ARM, for RE)
 **Web:** Next.js · React · Vue · Tailwind CSS · Node.js
